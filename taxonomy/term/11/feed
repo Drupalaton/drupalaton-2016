@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2016.drupalaton.hu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Drupalaton - Silver</title>
+ <link>http://2016.drupalaton.hu/taxonomy/term/11</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pronovix</title>
+ <link>http://2016.drupalaton.hu/pronovix</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.pronovix.com/&quot; target=&quot;_blank&quot;&gt;Pronovix&lt;/a&gt; is a software development company specialized in tailor-made developer portals, API integrations and documentation systems in Drupal. We strive to provide our clients with a better insight into the development process and enable them to manage their sites independently. We operate globally, with offices in Belgium and Hungary. &amp;nbsp;&lt;/p&gt;
+&lt;p&gt;We are committed to open source: adding value on top of open code, avoiding vendor lock-in, contributing back to the community and fostering the ecosystem wherever we can. We’ve contributed and supported the Drupal community since 2005, co-organized Drupalcon 2008 Europe as well as initiated and (co-)lead several Drupal events (DevDays Szeged, CXO Rome &amp;amp; Amsterdam). Kristof, our co-founder, is an Advisory Board member of the Drupal Association. We are also active in the DITA community and we contribute to the Write The Docs community conferences and meetups.&lt;/p&gt;
+&lt;p&gt;Pronovix is not just a consulting agency, we are also active in product innovation and development: check out &lt;a href=&quot;http://pronovix.com/walkhub&quot; target=&quot;_blank&quot;&gt;WalkHub&lt;/a&gt; and &lt;a href=&quot;http://embedthedocs.com/&quot; target=&quot;_blank&quot;&gt;Embed The Docs&lt;/a&gt;. With &lt;a href=&quot;http://d8upgrade.org&quot; target=&quot;_blank&quot;&gt;D8-upgrade&lt;/a&gt; we help site owners in the Drupal community find out when they can upgrade their D6 and D7 sites. We are a trusted partner of Acquia, Brightcove, and Apigee, our customers include iText, The Economist, Oxfam and one of the world’s biggest NGO’s.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.pronovix.com&quot;&gt;http://www.pronovix.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Silver&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 09 Jul 2016 12:10:24 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">131 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Liip</title>
+ <link>http://2016.drupalaton.hu/liip</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.liip.ch/en&quot; target=&quot;_blank&quot;&gt;Liip&lt;/a&gt; is one of Switzerland’s leading developers of tailor-made, agile web applications. Content management, E-Commerce, E-Learning, User Experience, Open Data, Mobile Apps, Analytics and API are just a few of the services that Liip offers private and public sector customers.&lt;br /&gt;
+Thanks to its use of state-of-the-art technologies, tried and tested industry standards and open-source software, Liip develops and delivers sustainable digital solutions. With offices in Zurich, Lausanne, Bern, Fribourg and St. Gallen, Liip brings its extensive knowledge, experience and innovative flair to your doorstep. The company is behind many award-winning web applications and its cross-functional teams and transparent communication help customers gain swift entry to the market, with a minimum of risk but a maximum of investment security. This is what Liip is all about.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.liip.ch/en&quot;&gt;https://www.liip.ch/en&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Silver&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Fri, 03 Jun 2016 15:09:47 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">91 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Cheppers</title>
+ <link>http://2016.drupalaton.hu/cheppers</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://cheppers.com/&quot; target=&quot;_blank&quot;&gt;Cheppers&lt;/a&gt; is one of the leading Drupal companies in Budapest, Hungary, with a team of 37 Drupal, Cloud Engineer and UX/UI experts.&amp;nbsp;&lt;br /&gt;
+Over the years, we have been incredibly fortunate to cultivate a team of highly skilled developers, as well as relationships with some fantastic clients. We are always searching for interesting, complex projects to work on, but above all, we take pride delivering the highest quality product, no matter what the project is.&amp;nbsp;&lt;br /&gt;
+We have worked a huge variety of projects; whether it’s a simple portfolio site with a unique theme, an enterprise level e-learning system, a backend to communicate with a mobile application through web services, a multi-site installation of webshops integrated with an external stock tracker software, or when there simply isn&#039;t a module for what you need - we can do it.&lt;/p&gt;
+&lt;p&gt;
+We are active members of the local and international Drupal community and we are sponsoring Drupalaton, as the event is a great opportunity for Drupalists to get together to strenghten their knowledge.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://cheppers.com/&quot;&gt;https://cheppers.com/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/11&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Silver&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 18 May 2016 10:55:05 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">71 at http://2016.drupalaton.hu</guid>
+</item>
+</channel>
+</rss>

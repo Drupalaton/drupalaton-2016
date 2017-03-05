@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2016.drupalaton.hu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Drupalaton - Bronze</title>
+ <link>http://2016.drupalaton.hu/taxonomy/term/16</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>NDP</title>
+ <link>http://2016.drupalaton.hu/ndp</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Based in London, &lt;a href=&quot;http://ndp-studio.com/&quot; target=&quot;_blank&quot;&gt;NDP&lt;/a&gt; is one of the UK&#039;s most experienced Drupal agencies - with a team of around twenty people. They are broad-based in experience, working in all sectors - charity, government, health, education, corporate, large and small business, plus startups - with over 200 projects successfully delivered.&lt;/p&gt;
+&lt;p&gt;Culturally focused on the quality of strategic consultancy, and then the standard of engineering, NDP are geared to delivering even the most complex projects on time. &amp;nbsp;They also ensure that they are built to be easy to develop across their life-cycle too. The NDP team put professionalism first and are process-driven - mixing the best of Waterfall, XP methodology and Agile to create stable and predictable projects that deliver results that work for everyone - the team, their clients and the client&#039;s users and audiences.&lt;/p&gt;
+&lt;p&gt;NDP are currently looking to extend their team with partnerships and contractors from Eastern Europe feel free to get in touch with us on &lt;a href=&quot;mailto:team@ndp-studio.com&quot;&gt;team@ndp-studio.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.ndp-studio.com/&quot;&gt;http://www.ndp-studio.com/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 03 Aug 2016 11:35:10 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">236 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Deeson</title>
+ <link>http://2016.drupalaton.hu/deeson</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.deeson.co.uk&quot; target=&quot;_blank&quot;&gt;Deeson&lt;/a&gt; builds large, complex and beautiful digital platforms using open source technology. We&#039;re one of the UK&#039;s longest established Drupal agencies, with Europe’s largest team of permanent Acquia certified developers. We’re a top contributor to the European Drupal community, and our team members regularly participate in national and international Drupal events.&amp;nbsp;&lt;br /&gt;
+We’re adding to our super-talented multidisciplinary team of more than 35 designers, developers and UX-ers. Drupal, Symfony, Laravel or WordPress expert? Do you have recent examples of creating great PHP applications for clients? Join our team of best practice following (and defining) engineers. Explore new tech on some of the UK’s most exciting builds whilst enjoying the flexibility of distributed working.&lt;br /&gt;
+We also offer an unlimited training budget, a competitive salary and £500 annual personal budget to spend on the tools of your choice. For more information, or to apply, head over to &lt;a href=&quot;https://www.deeson.co.uk/careers&quot; target=&quot;_blank&quot;&gt;https://www.deeson.co.uk/careers&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.deeson.co.uk/careers&quot;&gt;https://www.deeson.co.uk/careers&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 02 Aug 2016 14:09:14 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">226 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Migrate.rocks</title>
+ <link>http://2016.drupalaton.hu/migrate-rocks</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Migrate.rocks is the expert in Drupal data migration, lead by Karoly (chx) Negyesi, the principal architect for the Drupal Migration system. We are a distributed team in the US and Canada with a combined 20 plus years of Drupal experience.&lt;br /&gt;
+Whether you are importing data from another system to Drupal, or from a previous Drupal version to Drupal 8, we provide the expertise you need. Even if you have an existing team to support your site, data migration isn&#039;t something they do every day. It is something we do every day.&lt;br /&gt;
+We communicate deeply, plan thoroughly, execute carefully, test extensively, and repeat until complete.&lt;/p&gt;
+&lt;p&gt;Migrate.rocks is a special sponsor of the &lt;span class=&quot;pack-name&quot;&gt;Túró Rudi supply&lt;/span&gt; during our event.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.migrate.rocks&quot;&gt;https://www.migrate.rocks&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 12 Jul 2016 05:07:32 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">176 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Lingotek</title>
+ <link>http://2016.drupalaton.hu/lingotek</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.lingotek.com&quot; target=&quot;_blank&quot;&gt;Lingotek&lt;/a&gt;’s Translation Network is the only cloud-based solution to connect all your global content in one place, giving you the power to manage your brand worldwide. Our industry-leading technology pairs with the best enterprise applications to continuously push dynamic multilingual content to all of your global markets. Finally. Networked translation.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.lingotek.com&quot;&gt;http://www.lingotek.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 29 Jun 2016 17:47:43 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">126 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Penceo</title>
+ <link>http://2016.drupalaton.hu/penceo</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://www.penceo.com/&quot; target=&quot;_blank&quot;&gt;Penceo&lt;/a&gt; is an international design and development company, running offices in four countries across Europe. We love Drupal and we provide web based solutions for our clients mainly in Switzerland and France. We love sports and we are getting more and more dedicated to projects which are related to sports. Our main development office is in Budapest’s heart and we’re hiring Drupal developers so if you live here, we are more then happy to receive your introduction.&lt;br /&gt;
+By sponsoring as many Drupal event as we can, we’d like to support the Drupal community in getting together for strengthening our knowledge, finding new people who are interested in this great tool and having fun together.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://www.penceo.com/&quot;&gt;http://www.penceo.com/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 19 Jun 2016 08:25:51 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">116 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Druid</title>
+ <link>http://2016.drupalaton.hu/druid</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://druid.fi/&quot; target=&quot;_blank&quot;&gt;Druid&lt;/a&gt; consists of carefully selected, highly skilled Drupal enthusiasts. Our focus is mostly on large, challenging web systems where performance optimization, stability, and high code quality are absolutely vital. We contribute regularly to the community and are familiar faces in all local and major international Drupal events. Contact us for consulting, full project deliveries or just emergency help. Just be prepared to work with agile methods. Our offices are located in Helsinki and Amsterdam.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Druid is a special sponsor of&amp;nbsp;&lt;/strong&gt; &lt;span class=&quot;pack-name&quot;&gt;Fruit salad and healthy snacks&lt;/span&gt; during the sprints and our &lt;span class=&quot;pack-name&quot;&gt;Internet&lt;/span&gt; connection as well.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://druid.fi/&quot;&gt;https://druid.fi/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 16 Jun 2016 06:34:58 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">101 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Acquia</title>
+ <link>http://2016.drupalaton.hu/acquia</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.acquia.com/&quot; target=&quot;_blank&quot;&gt;Acquia&lt;/a&gt; is the digital experience company. Intuit, Warner Music Group and Stanford University are among the more than 4,000 organizations that are transforming their digital businesses with Acquia’s open cloud platform. Global 2000 enterprises, government agencies and NGOs rely on Acquia to create new revenue streams, lower costs, and engage audiences more deeply through content, community, commerce and context.&lt;br /&gt;
+For more information visit &lt;a href=&quot;https://www.acquia.com/&quot; target=&quot;_blank&quot;&gt;www.acquia.com &lt;/a&gt;or call +1 781 238 8600.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.acquia.com/&quot;&gt;https://www.acquia.com/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 26 May 2016 20:29:59 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">86 at http://2016.drupalaton.hu</guid>
+</item>
+<item>
+ <title>Lemberg</title>
+ <link>http://2016.drupalaton.hu/lemberg</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;We are &lt;a href=&quot;http://lemberg.co.uk/&quot; target=&quot;_blank&quot;&gt;Lemberg&lt;/a&gt; - mobile &amp;amp; web development company based in Lviv, Ukraine.&lt;/p&gt;
+&lt;p&gt;Starting from 2007, we at Lemberg strive for most ambitious, creative and innovative ideas - and we help businesses, startups and agencies to make idea into reality.&lt;/p&gt;
+&lt;p&gt;We value people over process and constantly looking for motivated, enthusiastic and talented professionals to to join us in our journey. At Lemberg you will find exciting and challenging &lt;a href=&quot;http://lemberg.co.uk/showcases&quot; target=&quot;_blank&quot;&gt;projects&lt;/a&gt;, friendly and engaging professional team. You will work with customers located around the globe, meet them in our office and travel to visit their locations. Also you will have a chance to work on internal &lt;a href=&quot;http://lemberg.co.uk/labs&quot; target=&quot;_blank&quot;&gt;R&amp;amp;D projects&lt;/a&gt;, your own ideas, become a part of local and global communities, contribute to &lt;a href=&quot;https://github.com/lemberg&quot; target=&quot;_blank&quot;&gt;open source&lt;/a&gt;, visit conferences and industry events.&lt;/p&gt;
+&lt;p&gt;Be sure to find our team members at worldwide and local Drupal events like DrupalCons, &lt;a href=&quot;https://www.facebook.com/DrupalCafeLviv/&quot; target=&quot;_blank&quot;&gt;Drupal Café Lviv&lt;/a&gt; monthly meetups, &lt;a href=&quot;http://lemberg.co.uk/uk/learn-drupal&quot; target=&quot;_blank&quot;&gt;Drupal Global Training Days&lt;/a&gt;, Code Sprints, and more.&lt;br /&gt;
+Join conversation on &lt;a href=&quot;https://www.facebook.com/LembergSolutions/&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/lemberg_co_uk&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-web-page field-type-link-field field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;http://lemberg.co.uk/&quot;&gt;http://lemberg.co.uk/&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-sponsor-tax-category field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Category:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/taxonomy/term/16&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Bronze&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Tue, 24 May 2016 19:54:07 +0000</pubDate>
+ <dc:creator>zsofi.m</dc:creator>
+ <guid isPermaLink="false">76 at http://2016.drupalaton.hu</guid>
+</item>
+</channel>
+</rss>
